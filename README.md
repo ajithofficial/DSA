@@ -1,2 +1,2 @@
 # DSA
-This repository contains code sample files and notes the Data Structures &amp; Algorithms
+This repository contains code sample files and notes for the Data Structures &amp; Algorithms
